@@ -1,5 +1,5 @@
 ---
-title: "Practical Statistics"
+title: "PRACTICAL STATISTICS"
 output: html_notebook
 ---
 
